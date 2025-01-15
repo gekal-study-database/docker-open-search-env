@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: oepnsearch
+  elasticsearch:
+    uris: http://localhost:9200
+    username: elastic
+    password: ghWdxLlrIhR0OUXD
